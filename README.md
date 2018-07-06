@@ -17,14 +17,15 @@ Flash belleğe linux yükleyin ve aşağıdaki komutları çalıştırın.
 
 ```
 sudo apt-get install python3 geany
-git clone https://github.com/lukacci/cpuhunter /$USER/cpuhunter
+rm -rf /$USER/cpuhunter; git clone https://github.com/lukacci/cpuhunter /$USER/cpuhunter
 ```
 
 # Kullanım
 Bilgisayarı usb'den boot ettiğinizde karşınıza otomatik olarak config.json dosyası açılacak. Wallet kısmı karşısına monero cüzdanınızı girmeniz yeterlidir. 
 
+Çalıştırma komutu:
+
 ```
-#Miner programını Windows'a yükle
 python3 /$USER/cpuhunter/exeinstaller.py
 ```
 
