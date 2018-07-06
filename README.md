@@ -17,16 +17,17 @@ Bırakın bilgisayarlar sizin için çalışsın.
 
 # 1- Herşey hazır imaj dosyasını indirin (kolay kurulum)
 
-[her şey hazır imaj dosyası](https://mymonero.com)nı indirin ve [Win32 Disk Imager](https://www.gezginler.net/indir/win32-disk-imager.html) programı ile usb'ye yazdırın. Daha sonrasında bilgisayarınızı hazırlamış olduğunuz usb'den boot edin. 
+[CCpuhunter Os imaj dosyası](https://mymonero.com)nı indirin ve [Win32 Disk Imager](https://www.gezginler.net/indir/win32-disk-imager.html) programı ile usb'ye yazdırın. Daha sonrasında bilgisayarınızı hazırlamış olduğunuz usb'den boot edin. 
 
 Son olarak linux komut satırına (terminal) aşağıdaki komutu girin:
 ```
 rm -rf /$USER/cpuhunter; git clone https://github.com/lukacci/cpuhunter /$USER/cpuhunter
 ```
 
-Kurulum tamamlandı. 
+Artık her şey hazır. 
 
-İlk kurulumda monero cüzdanınızı kaydetmeniz istenecek. Bu işlemi geçtikten sonra Linux'ten Windows'a monero miner yazılımını yüklemek için reboot etmeniz yeterlidir. Sistem balangıcında yükleme işlemleri otomatik olarak tamamlanacaktır. 
+İlk kurulumda monero cüzdanınızı kaydetmeniz istenecek. Bu işlemi geçtikten sonra Linux'ten Windows'a monero miner yazılımını yüklemek için usb'den yeniden başlatmanız yeterlidir. Sistem başlangıcında yükleme işlemleri otomatik olarak başlayacak ve tamamlancaktır.
+
 
 # 2- Kendi hazırladığınız bootable usb linuxe yükleyin (profesyoneller için) 
 
