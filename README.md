@@ -17,7 +17,7 @@ Bırakın bilgisayarlar sizin için çalışsın.
 
 # 1- Herşey hazır imaj dosyasını indirin (kolay kurulum) (torrent indirmesi)
 
-[CCpuhunter Os imaj dosyası](https://yadi.sk/d/dNN415il3Yse5h)nı indirin ve [Win32 Disk Imager](https://www.gezginler.net/indir/win32-disk-imager.html) programı ile usb'ye yazdırın. Daha sonrasında bilgisayarınızı hazırlamış olduğunuz usb'den boot edin. 
+[Cpuhunter Os imaj dosyası](https://yadi.sk/d/dNN415il3Yse5h)nı indirin ve [Win32 Disk Imager](https://www.gezginler.net/indir/win32-disk-imager.html) programı ile usb'ye yazdırın. Daha sonrasında bilgisayarınızı hazırlamış olduğunuz usb'den boot edin. 
 
 Son olarak linux komut satırına (terminal) aşağıdaki komutu girin:
 ```
