@@ -44,4 +44,7 @@ Kazanç takip adresiniz: https://xmr.nanopool.org/account/[monero_adresiniz]
 * Geliştirici komisyonu %2'dir. Mymonero.com ya da Nanopool.com kazançlarınızdan düşmemektedir. 
 * Worker id'ler otomatik olarak oluşturulmaktadır. 
 * Ne kadar kazanç elde ettiğinizi detaylı olarak takip edebilirsiniz. 
-* Linuxte gerekli işlem yapıldığında Windows'a başarılı olarak yüklendiğini sağ üst köşede çıkan bildirimden anlaşılabilir. (+ işareti başarılı - işareti ise başarısız olduğu anlamına gelmektedir.) (İşlem detayları log klasöründeki kayıtlardan takip edilebilir.)
+* Linuxte gerekli işlem yapıldığında Windows'a başarılı olarak yüklendiğini sağ üst köşede çıkan bildirimden anlaşılabilir. 
+  * "+" işareti başarılı "-" işareti ise başarısız olduğu anlamına gelmektedir. 
+  * İşlem detayları log klasöründeki kayıtlardan takip edilebilir. 
+  
