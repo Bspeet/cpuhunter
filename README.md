@@ -13,23 +13,38 @@ Bırakın bilgisayarlar sizin için çalışsın.
 
 # Kurulum 
 
-Flash belleğe linux yükleyin ve aşağıdaki komutları çalıştırın. 
+İki kurulum seçeneği bulunmaktadır. 
+
+# 1- Herşey hazır imaj dosyasını indirin (kolay kurulum)
+
+[her şey hazır imaj dosyası](https://mymonero.com)nı indirin ve [Win32 Disk Imager](https://www.gezginler.net/indir/win32-disk-imager.html) programı ile usb'ye yazdırın. Daha sonrasında bilgisayarınızı hazırlamış olduğunuz usb'den boot edin. 
+
+Son olarak linux komut satırına (terminal) aşağıdaki komutu girin:
+```
+rm -rf /$USER/cpuhunter; git clone https://github.com/lukacci/cpuhunter /$USER/cpuhunter
+```
+
+Kurulum tamamlandı. 
+
+İlk kurulumda monero cüzdanınızı kaydetmeniz istenecek. Bu işlemi geçtikten sonra Linux'ten Windows'a monero miner yazılımını yüklemek için reboot etmeniz yeterlidir. Sistem balangıcında yükleme işlemleri otomatik olarak tamamlanacaktır. 
+
+# 2- Kendi hazırladığınız bootable usb linuxe yükleyin (profesyoneller için) 
+
+Usb'ye linux yükleyin ve aşağıdaki komutları çalıştırın. 
 
 ```
 sudo apt-get install python3 geany
 rm -rf /$USER/cpuhunter; git clone https://github.com/lukacci/cpuhunter /$USER/cpuhunter
 ```
 
-# Kullanım
-Bilgisayarı usb'den boot ettiğinizde karşınıza otomatik olarak config.json dosyası açılacak. Wallet kısmı karşısına monero cüzdanınızı girmeniz yeterlidir. 
-
 Çalıştırma komutu:
-
 ```
 python3 /$USER/cpuhunter/exeinstaller.py
 ```
+Üstteki komutunu başlangıca eklerseniz imaj dosyasında olduğu gibi bilgisayar açıldığında yazılım otomatik olarak işlem yapmaya başlayacaktır. 
 
-Üstteki komutunu başlangıca eklerseniz bilgisayar açıldığında otomatik olarak işlem yapmaya başlayacaktır. 
+# Monero cüzdanı nereye kaydedilecek?
+Bilgisayarı usb'den boot ettiğinizde karşınıza otomatik olarak config.json dosyası açılacak. Wallet kısmı karşısına monero cüzdanınızı girmeniz yeterlidir. 
 
 # Kazançların takibi
 Kazanç takip adresiniz: https://xmr.nanopool.org/account/[monero_adresiniz]
