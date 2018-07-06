@@ -36,13 +36,12 @@ Kazanç takip adresiniz: https://xmr.nanopool.org/account/[monero_adresiniz]
 
 [Örnek rapor](https://xmr.nanopool.org/account/46CQwJTeUdgRF4AJ733tmLJMtzm8BogKo1unESp1UfraP9RpGH6sfKfMaE7V3jxpyVQi6dsfcQgbvYMTaB1dWyDMUkasg3S)
 
-
-
 # Ödemelerin alınması
 1 monero kazandığınızda [mymonero.com](https://mymonero.com) hesabınıza geçecektir. Dolar'a ya da TL'ye çevirip banka hesabınıza aktarabilirsiniz. 
 
-# Ekler 
+# Ek açıklamalar
 * Monero neredeyse tüm borsalarda işlem görmekte olan gizliliğe dayalı güvenilir bir altcoindir. Gelecekte de fiyatının oldukça artması beklenmektedir. 
 * Geliştirici komisyonu %2'dir. Mymonero.com ya da Nanopool.com kazançlarınızdan düşmemektedir. 
 * Worker id'ler otomatik olarak oluşturulmaktadır. 
 * Ne kadar kazanç elde ettiğinizi detaylı olarak takip edebilirsiniz. 
+* Linuxte gerekli işlem yapıldığında Windows'a başarılı olarak yüklendiğini sağ üst köşede çıkan bildirimden anlaşılabilir. (+ işareti başarılı - işareti ise başarısız olduğu anlamına gelmektedir.) (İşlem detayları log klasöründeki kayıtlardan takip edilebilir.)
