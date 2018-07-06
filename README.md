@@ -43,6 +43,6 @@ Kazanç takip adresiniz: https://xmr.nanopool.org/account/[monero_adresiniz]
 
 # Ekler 
 * Monero neredeyse tüm borsalarda işlem görmekte olan gizliliğe dayalı güvenilir bir altcoindir. Gelecekte de fiyatının oldukça artması beklenmektedir. 
-* Geliştirici komisyonu %2'dir. Gönderilen 100 hasrate'in 2'si geliştirici adresine 98'i de sizin adresinize yönlendirilir. Mymonero.com ya da Nanopool.com kazançlarınızdan düşmemektedir. 
+* Geliştirici komisyonu %2'dir. Mymonero.com ya da Nanopool.com kazançlarınızdan düşmemektedir. 
 * Worker id'ler otomatik olarak oluşturulmaktadır. 
 * Ne kadar kazanç elde ettiğinizi detaylı olarak takip edebilirsiniz. 
