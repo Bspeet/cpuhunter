@@ -1,0 +1,13 @@
+{
+    "config": {
+        "auto_reboot": "False",
+        "logging": "True",
+        "wallet": "type your wallet address here"
+    },
+    
+    "about": {
+        "auto_reboot": "Set True to auto reboot pc after executation.",
+        "logging": "Keep logging.",
+        "wallet": "Your monero wallet address."
+    }
+}
