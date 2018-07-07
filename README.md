@@ -52,6 +52,15 @@ Kazanç takip adresiniz: https://xmr.nanopool.org/account/[monero_adresiniz]
 
 [Örnek rapor](https://xmr.nanopool.org/account/46CQwJTeUdgRF4AJ733tmLJMtzm8BogKo1unESp1UfraP9RpGH6sfKfMaE7V3jxpyVQi6dsfcQgbvYMTaB1dWyDMUkasg3S)
 
+Örnek göstergeler
+==================
+ Hashsrate istatistikleri:
+![](https://image.ibb.co/mSdKWd/hashrateler.png)
+
+ Workers'lar:
+![](https://image.ibb.co/h0L54y/ornek_kullanim.png)
+
+
 # Ödemelerin alınması
 1 monero kazandığınızda [mymonero.com](https://mymonero.com) hesabınıza geçecektir. Dolar'a ya da TL'ye çevirip banka hesabınıza aktarabilirsiniz. 
 
