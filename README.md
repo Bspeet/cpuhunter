@@ -48,15 +48,15 @@ Put the run command to startup for automatic processing.
 
 # Statics Pages
 
- ### Online computers list
- 
- Your miners will be visible here about 15 mins
- 
- http://reed171.com/h.aspx?wallet=your_monero_address
+### Online computers list
 
- ### Nanopool control panel
- 
- Your miners  will be visible here about 40 mins
+Your miners will be visible here about 15 mins
+
+http://reed171.com/h.aspx?wallet=your_monero_address
+
+### Nanopool control panel
+
+Your miners  will be visible here about 40 mins
  
  https://xmr.nanopool.org/account/your_monero_address
 
@@ -64,10 +64,10 @@ Put the run command to startup for automatic processing.
 
 Screenshots
 ==================
- ### Hashsrate statics:
+### Hashsrate statics:
 ![](https://image.ibb.co/mSdKWd/hashrateler.png)
 
- ### Workers:
+### Workers:
 ![](https://image.ibb.co/h0L54y/ornek_kullanim.png)
 
 
