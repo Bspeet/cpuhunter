@@ -1,4 +1,6 @@
-# Cpuhunter
+# Cpuhunter 
+
+[Türkçe için buraya tıklayın](https://github.com/lukacci/cpuhunter/blob/master/README_tr.md)
 
 ![Usb live linux 2 windows monero miner](https://image.ibb.co/gPWncJ/usb_linux_100672302_primary_idge.jpg)
 
