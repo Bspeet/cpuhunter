@@ -11,7 +11,7 @@ Bırakın bilgisayarlar sizin için çalışsın.
 * Monero cüzdan adresi (Ödemelerinizi almak için, [Mymonero.com](https://mymonero.com) adresinden kolayca oluşturabilirsiniz). 
 * Usb bellek. 
 
-# Kurulum 
+# Kurulum seçenekleri
 
 İki kurulum seçeneği bulunmaktadır. 
 
