@@ -46,7 +46,7 @@ python3 /$USER/cpuhunter/exeinstaller.py
 
 Put the run command to startup for automatic processing. 
 
-# Statics Page
+# Statics Pages
 
  ### Online computers list
  Your miners will be visible here about 15 mins
