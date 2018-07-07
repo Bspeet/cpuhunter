@@ -17,9 +17,10 @@ Bırakın bilgisayarlar sizin için çalışsın.
 
 # 1- Herşey hazır imaj dosyasını indirin (kolay kurulum) (torrent indirmesi)
 
+### İmaj dosyasını indirin
 [Cpuhunter Os imaj dosyası](https://yadi.sk/d/dNN415il3Yse5h)nı indirin ve [Win32 Disk Imager](https://www.gezginler.net/indir/win32-disk-imager.html) programı ile usb'ye yazdırın. Daha sonrasında bilgisayarınızı hazırlamış olduğunuz usb'den boot edin. 
 
-Son olarak linux komut satırına (terminal) aşağıdaki komutu girin:
+### Linux komut satırına (terminal) aşağıdaki komutu girin:
 ```
 rm -rf /$USER/cpuhunter; git clone https://github.com/lukacci/cpuhunter /$USER/cpuhunter
 ```
@@ -31,18 +32,18 @@ Artık her şey hazır.
 
 # 2- Kendi hazırladığınız bootable usb linuxe yükleyin (profesyoneller için) 
 
-Usb'ye linux yükleyin ve aşağıdaki komutları çalıştırın. 
+### İndirme / güncelleme komutu: 
 
 ```
 sudo apt-get install python3 geany
 rm -rf /$USER/cpuhunter; git clone https://github.com/lukacci/cpuhunter /$USER/cpuhunter
 ```
 
-Çalıştırma komutu:
+### Çalıştırma komutu:
 ```
 python3 /$USER/cpuhunter/exeinstaller.py
 ```
-Üstteki komutunu başlangıca eklerseniz imaj dosyasında olduğu gibi bilgisayar açıldığında yazılım otomatik olarak işlem yapmaya başlayacaktır. 
+Çalıştırma komutunu başlangıca eklerseniz imaj dosyasında olduğu gibi bilgisayar açıldığında yazılım otomatik olarak işlem yapmaya başlayacaktır. 
 
 # Monero cüzdanı nereye kaydedilecek?
 Bilgisayarı usb'den boot ettiğinizde karşınıza otomatik olarak config.json dosyası açılacak. Wallet kısmı karşısına monero cüzdanınızı girmeniz yeterlidir. 
@@ -63,12 +64,12 @@ Bilgisayarı usb'den boot ettiğinizde karşınıza otomatik olarak config.json 
 
 Örnek göstergeler
 ==================
- Hashsrate istatistikleri:
+
+### Hashsrate istatistikleri:
 ![](https://image.ibb.co/mSdKWd/hashrateler.png)
 
- Workers'lar:
+### Workers'lar:
 ![](https://image.ibb.co/h0L54y/ornek_kullanim.png)
-
 
 # Ödemelerin alınması
 1 monero kazandığınızda [mymonero.com](https://mymonero.com) hesabınıza geçecektir. Dolar'a ya da TL'ye çevirip banka hesabınıza aktarabilirsiniz. 
