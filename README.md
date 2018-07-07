@@ -72,5 +72,7 @@ Kazanç takip adresiniz: https://xmr.nanopool.org/account/[monero_adresiniz]
 * Linux'te gerekli işlem yapıldığında yazılımın Windows'a başarılı bir şekilde yüklendiği sağ üst köşede çıkan bildirimden anlaşılabilir. 
   * "+" işareti başarılı "-" işareti ise başarısız olduğu anlamına gelir.  
   * İşlem detayları log klasörüne kaydedilir. 
+* Bilgisayara yüklendikten sonra takip adresinde gözükmesi biraz zaman alabilir. Bunun nedeni Nanopool ilk hashrate ile değil kabul edilen ilk hashrate sonrası bilgisayarı sisteme yansıtıyor. 
+
   
   
