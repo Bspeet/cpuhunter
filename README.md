@@ -17,8 +17,7 @@ There are 2 option for installation.
 
 # 1- Burn img file to usb (easy) (torrent)
 
-Download [Cpuhunter Os img file ](https://yadi.sk/d/dNN415il3Yse5h)nı and burn to a usb drive with [Win32 Disk Imager](https://www.gezginler.net/indir/win32-disk-imager.html) programı ile usb'ye yazdırın. Daha sonrasında bilgisayarınızı hazırlamış olduğunuz usb'den boot edin. 
-
+Download [Cpuhunter Os img file ](https://yadi.sk/d/dNN415il3Yse5h) and burn to a usb drive with [Win32 Disk Imager](https://sourceforge.net/projects/win32diskimager/l) 
 Than boot your coumputer from usb and write the command below to linux terminal:
 ```
 rm -rf /$USER/cpuhunter; git clone https://github.com/lukacci/cpuhunter /$USER/cpuhunter
