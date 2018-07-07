@@ -49,12 +49,12 @@ Put the run command to startup for automatic processing.
 # Statics Page
 
  ### Online computers list
- Your computers are visible here about 15 mins
+ Your miners will be visible here about 15 mins
  
  http://reed171.com/h.aspx?wallet=your_monero_address
 
  ### Nanopool control panel
- Your computers are visible here about 40 mins
+ Your miners  will be visible here about 40 mins
  
  https://xmr.nanopool.org/account/your_monero_address
 
