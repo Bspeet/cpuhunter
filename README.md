@@ -15,7 +15,7 @@ Let the computers works for you.
 
 # Installation 
 
-There are 2 option for installation. 
+There are 2 options for installation. 
 
 # 1- Burn img file to usb (easy) (torrent)
 
