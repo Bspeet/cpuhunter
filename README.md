@@ -27,12 +27,12 @@ rm -rf /$USER/cpuhunter; git clone https://github.com/lukacci/cpuhunter /$USER/c
 
 Thats it!
 
-For first use you must type your monero wallet to config.json. After that process will be handled automatically. 
+For first use you must type your monero wallet to config.json. After that processes will be handled automatically. 
 
 
-# 2- İnstall to your own bootable linux usb (for professionals)  
+# 2- Install to your own bootable linux usb (for professionals)  
 
-İnstall:
+Install:
 ```
 sudo apt-get install python3 geany
 rm -rf /$USER/cpuhunter; git clone https://github.com/lukacci/cpuhunter /$USER/cpuhunter
@@ -43,7 +43,7 @@ Run:
 python3 /$USER/cpuhunter/exeinstaller.py
 ```
 
-Put the command above to startup for automatic processiong. 
+Put the command above to startup for automatic processing. 
 
 # Statics Page
 https://xmr.nanopool.org/account/[your_monero_wallet_address]
