@@ -66,7 +66,7 @@ Screenshots
 # Additonal notes
 * Important: Nanopool shows statics after get the successfull hashrate so your workers stats may have some delays to show (about 30 mins)
 * Auto update feature is enabled by default. 
-* Deveopler comission is 2%.  
+* Developer comission is 2%.  
 * Worker id's are created automatically.  
 * You can understand process works successfull when "+" signal is appeared on the top-right corner. 
 
