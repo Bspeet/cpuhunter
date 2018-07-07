@@ -50,7 +50,7 @@ Bilgisayarı usb'den boot ettiğinizde karşınıza otomatik olarak config.json 
 # Kazançların takibi
 
  ### Online pc listesi
- İstatistiklere ortalama 20 dk içerisinde yansır
+ İstatistiklere ortalama 15 dk içerisinde yansır
  http://reed171.com/h.aspx?wallet=monero_adresiniz
 
  ### Kazanç takip adresi
