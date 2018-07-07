@@ -48,11 +48,16 @@ python3 /$USER/cpuhunter/exeinstaller.py
 Bilgisayarı usb'den boot ettiğinizde karşınıza otomatik olarak config.json dosyası açılacak. Wallet kısmı karşısına monero cüzdanınızı girmeniz yeterlidir. 
 
 # Kazançların takibi
-Online pc listesi: http://reed171.com/h.aspx?wallet=monero_adresiniz
 
-Kazanç takip adresi: https://xmr.nanopool.org/account/monero_adresiniz
+ ### Online pc listesi
+ İstatistiklere ortalama 20 dk içerisinde yansır
+ http://reed171.com/h.aspx?wallet=monero_adresiniz
 
-[Örnek rapor](https://xmr.nanopool.org/account/46CQwJTeUdgRF4AJ733tmLJMtzm8BogKo1unESp1UfraP9RpGH6sfKfMaE7V3jxpyVQi6dsfcQgbvYMTaB1dWyDMUkasg3S)
+ ### Kazanç takip adresi
+ İstatistiklere ortalama 40 dk içerisinde yansır
+ https://xmr.nanopool.org/account/monero_adresiniz
+
+ [Örnek rapor](https://xmr.nanopool.org/account/46CQwJTeUdgRF4AJ733tmLJMtzm8BogKo1unESp1UfraP9RpGH6sfKfMaE7V3jxpyVQi6dsfcQgbvYMTaB1dWyDMUkasg3S)
 
 Örnek göstergeler
 ==================
