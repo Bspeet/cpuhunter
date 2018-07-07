@@ -68,6 +68,7 @@ Kazanç takip adresiniz: https://xmr.nanopool.org/account/[monero_adresiniz]
 * ÖNEMLİ: Bilgisayara yüklendikten sonra takip adresinde gözükmesi biraz zaman alabilir. Bunun nedeni Nanopool ilk hashrate ile değil kabul edilen ilk hashrate sonrası bilgisayarı sisteme yansıtıyor. 
 
 * Monero neredeyse tüm borsalarda işlem görmekte olan gizliliğe dayalı güvenilir bir altcoindir. Gelecekte de fiyatının oldukça artması beklenmektedir. 
+* Mining yazılımına otomatik güncelleme desteği eklenmiştir. Yani monero bazı durumlarda algoritmasını değiştirir ve eski yazılımlar işlevsiz hale gelir. Bu tarz durumlarda mining yazılımı otomatik olarak güncellenecektir. 
 * Geliştirici komisyonu %2'dir. Mymonero.com ya da Nanopool.com kazançlarınızdan düşmemektedir. 
 * Worker id'ler otomatik olarak oluşturulmaktadır. 
 * Ne kadar kazanç elde ettiğinizi detaylı olarak takip edebilirsiniz. 
