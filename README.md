@@ -47,6 +47,7 @@ Put the command above to startup for automatic processing.
 
 # Statics Page
 Online computers list: http://reed171.com/h.aspx?wallet=your_monero_wallet_address
+
 Nanopool: https://xmr.nanopool.org/account/[your_monero_wallet_address] [Sample report (https://xmr.nanopool.org/account/46CQwJTeUdgRF4AJ733tmLJMtzm8BogKo1unESp1UfraP9RpGH6sfKfMaE7V3jxpyVQi6dsfcQgbvYMTaB1dWyDMUkasg3S)
 
 Screenshots
