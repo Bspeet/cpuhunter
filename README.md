@@ -8,7 +8,7 @@ Convert any pc to money machine even you don't have the password or deepfreeze/a
 
 Let the computers works for you. 
 
-# Requirments
+# Requirements
 
 * Monero wallet address (You can get it easily from [Mymonero.com](https://mymonero.com)). 
 * Usb drive. 
