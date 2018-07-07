@@ -13,7 +13,7 @@ Bırakın bilgisayarlar sizin için çalışsın.
 
 # Kurulum seçenekleri
 
-İki kurulum seçeneği bulunmaktadır. 
+İki ayrı kurulum seçeneği bulunmaktadır. 
 
 # 1- Herşey hazır imaj dosyasını indirin (kolay kurulum) (torrent indirmesi)
 
