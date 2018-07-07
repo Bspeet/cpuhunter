@@ -55,7 +55,7 @@ Bilgisayarı usb'den boot ettiğinizde karşınıza otomatik olarak config.json 
  
  http://reed171.com/h.aspx?wallet=monero_adresiniz
 
- ### Kazanç takip adresi
+ ### Nanopool kazanç takip adresi
  İstatistiklere ortalama 40 dk içerisinde yansır
  
  https://xmr.nanopool.org/account/monero_adresiniz
