@@ -76,11 +76,12 @@ Screenshots
  You can convert to btc or usd when you want. 
 
 # Additonal notes
-* Important: Nanopool shows statics after get the successfull hashrate so your workers stats may have some delays to show (about 30 mins)
+* Important: Nanopool shows statics after get the successfull hashrate so your workers stats may have some delays to show. 
 * Auto update feature is enabled by default. 
 * Developer comission is 1%.  
 * Worker id's are created automatically.  
 * You can understand process works successfull when "+" signal is appeared on the top-right corner. 
+
 
 
 
