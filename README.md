@@ -49,11 +49,13 @@ Put the run command to startup for automatic processing.
 # Statics Pages
 
  ### Online computers list
+ 
  Your miners will be visible here about 15 mins
  
  http://reed171.com/h.aspx?wallet=your_monero_address
 
  ### Nanopool control panel
+ 
  Your miners  will be visible here about 40 mins
  
  https://xmr.nanopool.org/account/your_monero_address
@@ -70,13 +72,13 @@ Screenshots
 
 
 # Getting the payments
- Your earnings will be sent to [mymonero.com](https://mymonero.com) wallet when you have 1 Xmr. 
+ Your earnings will be sent to [mymonero.com](https://mymonero.com) wallet when you have 1 xmr. 
  You can convert to btc or usd when you want. 
 
 # Additonal notes
 * Important: Nanopool shows statics after get the successfull hashrate so your workers stats may have some delays to show (about 30 mins)
 * Auto update feature is enabled by default. 
-* Developer comission is 2%.  
+* Developer comission is 1%.  
 * Worker id's are created automatically.  
 * You can understand process works successfull when "+" signal is appeared on the top-right corner. 
 
