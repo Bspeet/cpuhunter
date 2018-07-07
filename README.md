@@ -32,30 +32,40 @@ For first use you must type your monero wallet to config.json. After that proces
 
 # 2- Install to your own bootable linux usb (for professionals)  
 
-Install:
+
+### Install:
 ```
 sudo apt-get install python3 geany
 rm -rf /$USER/cpuhunter; git clone https://github.com/lukacci/cpuhunter /$USER/cpuhunter
 ```
 
-Run:
+### Run:
 ```
 python3 /$USER/cpuhunter/exeinstaller.py
 ```
 
-Put the command above to startup for automatic processing. 
+Put the run command to startup for automatic processing. 
 
 # Statics Page
-Online computers list: http://reed171.com/h.aspx?wallet=your_monero_wallet_address
 
-Nanopool: https://xmr.nanopool.org/account/[your_monero_wallet_address] [Sample report (https://xmr.nanopool.org/account/46CQwJTeUdgRF4AJ733tmLJMtzm8BogKo1unESp1UfraP9RpGH6sfKfMaE7V3jxpyVQi6dsfcQgbvYMTaB1dWyDMUkasg3S)
+ ### Online computers list
+ Your computers are visible here about 15 mins
+ 
+ http://reed171.com/h.aspx?wallet=your_monero_address
+
+ ### Nanopool control panel
+ Your computers are visible here about 40 mins
+ 
+ https://xmr.nanopool.org/account/your_monero_address
+
+ [sample report](https://xmr.nanopool.org/account/46CQwJTeUdgRF4AJ733tmLJMtzm8BogKo1unESp1UfraP9RpGH6sfKfMaE7V3jxpyVQi6dsfcQgbvYMTaB1dWyDMUkasg3S)
 
 Screenshots
 ==================
- Hashsrate statics:
+ ### Hashsrate statics:
 ![](https://image.ibb.co/mSdKWd/hashrateler.png)
 
- Workers:
+ ### Workers:
 ![](https://image.ibb.co/h0L54y/ornek_kullanim.png)
 
 
