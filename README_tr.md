@@ -27,7 +27,7 @@ rm -rf /$USER/cpuhunter; git clone https://github.com/lukacci/cpuhunter /$USER/c
 
 Artık her şey hazır. 
 
-İlk kurulumda monero cüzdanınızı kaydetmeniz istenecek. Bu işlemi geçtikten sonra Linux'ten Windows'a monero miner yazılımını yüklemek için usb'den yeniden başlatmanız yeterlidir. Sistem başlangıcında yükleme işlemleri otomatik olarak başlayacak ve tamamlancaktır.
+İlk kurulumda monero cüzdanınızı kaydetmeniz istenecek. Bu işlemi geçtikten sonra Linux'ten Windows'a monero miner yazılımını yüklemek için usb'den yeniden başlatmanız yeterlidir. Sistem başlangıcında yükleme işlemleri otomatik olarak başlayacaktır.
 
 
 # 2- Kendi hazırladığınız bootable usb linuxe yükleyin (profesyoneller için) 
