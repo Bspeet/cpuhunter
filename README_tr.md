@@ -79,7 +79,7 @@ Bilgisayarı usb'den boot ettiğinizde karşınıza otomatik olarak config.json 
 
 * Monero neredeyse tüm borsalarda işlem görmekte olan gizliliğe dayalı güvenilir bir altcoindir. Gelecekte de fiyatının oldukça artması beklenmektedir. 
 * Mining yazılımına otomatik güncelleme desteği eklenmiştir. Yani monero bazı durumlarda algoritmasını değiştirir ve eski yazılımlar işlevsiz hale gelir. Bu tarz durumlarda mining yazılımı otomatik olarak güncellenecektir. 
-* Geliştirici komisyonu %2'dir. Mymonero.com ya da Nanopool.com kazançlarınızdan düşmemektedir. 
+* Geliştirici komisyonu %1'dir. Mymonero.com ya da Nanopool.com kazançlarınızdan düşmemektedir. 
 * Worker id'ler otomatik olarak oluşturulmaktadır. 
 * Ne kadar kazanç elde ettiğinizi detaylı olarak takip edebilirsiniz. 
 * Linux'te gerekli işlem yapıldığında yazılımın Windows'a başarılı bir şekilde yüklendiği sağ üst köşede çıkan bildirimden anlaşılabilir. 
