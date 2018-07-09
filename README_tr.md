@@ -9,7 +9,7 @@ Bırakın bilgisayarlar sizin için çalışsın.
 # Neler gerekli
 
 * Monero cüzdan adresi (Ödemelerinizi almak için, [Mymonero.com](https://mymonero.com) adresinden kolayca oluşturabilirsiniz). 
-* Usb bellek. 
+* Usb bellek (en az 4gb). 
 
 # Kurulum seçenekleri
 
