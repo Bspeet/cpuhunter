@@ -52,7 +52,7 @@ Put the run command to startup for automatic processing.
 
 Your miners will be visible here about 15 mins
 
-http://reed171.com/h.aspx?wallet=your_monero_address
+https://reed171.com/h.aspx?wallet=your_monero_address
 
 ### Nanopool control panel
 
