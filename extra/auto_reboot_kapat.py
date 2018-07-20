@@ -4,19 +4,19 @@ import os
 import json
 
 basladigim_yer = "/root/cpuhunter"
-ayarlar_dosyasi = basladigim_yer + "/ayarlar.json"
+config_dosyasi = basladigim_yer + "/config.json"
 
 def basla():
-	jsonFile = open(ayarlar_dosyasi, "r") # Open the JSON file for reading
-	ayarlar = json.load(jsonFile) # Read the JSON into the buffer
+	jsonFile = open(config_dosyasi, "r") # Open the JSON file for reading
+	config = json.load(jsonFile) # Read the JSON into the buffer
 	jsonFile.close() # Close the JSON file
 
-	auto_reboot = ayarlar["ayarlar"]["auto_reboot"] 
+	auto_reboot = config["config"]["auto_reboot"] 
 
 	if auto_reboot == "True": 
-		ayarlar["ayarlar"]["auto_reboot"] = "False"
-		jsonFile = open(ayarlar_dosyasi, "w+")
-		jsonFile.write(json.dumps(ayarlar, indent=4, sort_keys=True))
+		config["config"]["auto_reboot"] = "False"
+		jsonFile = open(config_dosyasi, "w+")
+		jsonFile.write(json.dumps(config, indent=4, sort_keys=True))
 		jsonFile.close()
 		alert("auto_reboot disabled")
 	else:
