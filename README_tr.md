@@ -91,5 +91,7 @@ Bilgisayarı usb'den boot ettiğinizde karşınıza otomatik olarak config.json 
 python3 /$USER/cpuhunter/exeinstaller.py remove_all
 ```
 
-  
+* Kullanıcılar tarafında oluşturulan gönüllü telegram destek grubuna katılabilirsiniz: 
+https://t.me/cpuhunter_destek
+
   
