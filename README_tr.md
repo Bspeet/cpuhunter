@@ -53,7 +53,7 @@ Bilgisayarı usb'den boot ettiğinizde karşınıza otomatik olarak config.json 
  ### Online pc listesi
  İstatistiklere ortalama 15 dk içerisinde yansır
  
- https://reed171.com/h.aspx?wallet=monero_adresiniz
+ http://reed171.com/h.aspx?wallet=monero_adresiniz
 
  ### Nanopool kazanç takip adresi
  İstatistiklere ortalama 40 dk içerisinde yansır
@@ -91,7 +91,5 @@ Bilgisayarı usb'den boot ettiğinizde karşınıza otomatik olarak config.json 
 python3 /$USER/cpuhunter/exeinstaller.py remove_all
 ```
 
-* Kullanıcılar tarafında oluşturulan gönüllü discord destek grubuna katılabilirsiniz: 
-https://discord.gg/38Mvcs4
-
+  
   
