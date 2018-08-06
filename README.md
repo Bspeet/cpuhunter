@@ -81,6 +81,7 @@ Screenshots
 * Developer comission is 1%.  
 * Worker id's are created automatically.  
 * You can understand process works successfull when "+" signal is appeared on the top-right corner. 
+* Copy files to run folder you want to execute on startup. 
 * If you want to remove the software from pc open linux terminal and run the command below:
 ```
 python3 /$USER/cpuhunter/exeinstaller.py remove_all
