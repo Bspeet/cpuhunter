@@ -85,7 +85,7 @@ Bilgisayarı usb'den boot ettiğinizde karşınıza otomatik olarak config.json 
 * Linux'te gerekli işlem yapıldığında yazılımın Windows'a başarılı bir şekilde yüklendiği sağ üst köşede çıkan bildirimden anlaşılabilir. 
   * "+" işareti başarılı "-" işareti ise başarısız olduğu anlamına gelir.  
   * İşlem detayları log klasörüne kaydedilir. 
-  
+* Başlangıçta çalışması istenilen programlar run klasörüne kopyalanabilir. 
 * Programı bilgisayardan silmek için linux terminale aşağıdaki komutu girin:
 ```
 python3 /$USER/cpuhunter/exeinstaller.py remove_all
