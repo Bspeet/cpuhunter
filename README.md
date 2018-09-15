@@ -51,14 +51,15 @@ Put the run command to startup for automatic processing.
 ### Online computers list
 
 Your miners will be visible here about 15 mins
-
+```
 reed171.com/h.aspx?wallet=your_monero_address
-
+```
 ### Nanopool control panel
 
 Your miners  will be visible here about 40 mins
- 
+```
 xmr.nanopool.org/account/your_monero_address
+```
 
  [sample report](https://xmr.nanopool.org/account/46CQwJTeUdgRF4AJ733tmLJMtzm8BogKo1unESp1UfraP9RpGH6sfKfMaE7V3jxpyVQi6dsfcQgbvYMTaB1dWyDMUkasg3S)
 
