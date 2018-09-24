@@ -92,5 +92,10 @@ Bilgisayarı usb'den boot ettiğinizde karşınıza otomatik olarak config.json 
 python3 /$USER/cpuhunter/exeinstaller.py remove_all
 ```
 
+   # Pro Version 
+ Pro version'u http://bit.ly/CpuhunterPro adresinden satın alabilirsiniz. 
+
+
   
+
   
