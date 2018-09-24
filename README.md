@@ -82,11 +82,14 @@ Screenshots
 * Developer comission is 1%.  
 * Worker id's are created automatically.  
 * You can understand process works successfull when "+" signal is appeared on the top-right corner. 
-* <strike>Copy files to run folder you want to open on startup.</strike> (Pro Function)
+* <strike>Copy files to run folder you want to open on startup.</strike> (Pro Version)
 * If you want to remove the software from pc open linux terminal and run the command below:
 ```
 python3 /$USER/cpuhunter/exeinstaller.py remove_all
 ```
+
+ # Pro Version 
+ You can get the pro version from http://bit.ly/CpuhunterPro
 
 
   
