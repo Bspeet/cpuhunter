@@ -91,6 +91,5 @@ python3 /$USER/cpuhunter/exeinstaller.py remove_all
  # Pro Version 
  You can get the pro version from http://bit.ly/CpuhunterPro
 
-
-  
-  
+# Donate
+* Xmr: 4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbS5q4EZwra66S4TQFdY
