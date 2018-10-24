@@ -93,7 +93,7 @@ python3 /$USER/cpuhunter/exeinstaller.py remove_all
 ```
 
    # Pro Version 
- Pro version'u http://bit.ly/CpuhunterPro adresinden satın alabilirsiniz. 
+ Pro Version'u http://bit.ly/CpuhunterPro adresinden satın alabilirsiniz. 
  
   # Discord
  Kullanıcılar tarafından oluşturulan gönüllü destek grubuna katılın
