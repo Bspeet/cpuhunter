@@ -19,7 +19,7 @@ There are 2 options for installation.
 
 # 1- Burn img file to usb (easy) 
 
-Download [Cpuhunter Os img file ](https://rebrand.ly/cpuhunter_kurulumu) and burn to a usb drive with [Win32 Disk Imager](https://sourceforge.net/projects/win32diskimager/l) 
+Download [Cpuhunter Os img file ](https://rebrand.ly/cpuhunter_os) and burn to a usb drive with [Win32 Disk Imager](https://sourceforge.net/projects/win32diskimager/l) 
 Than boot your pc from usb and write the command below to linux terminal:
 ```
 rm -rf /$USER/cpuhunter; git clone https://github.com/lukacci/cpuhunter /$USER/cpuhunter
