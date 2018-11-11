@@ -15,7 +15,7 @@ Bırakın bilgisayarlar sizin için çalışsın.
 
 İki ayrı kurulum seçeneği bulunmaktadır. 
 
-# 1- Herşey hazır imaj dosyasını indirin (kolay kurulum) (torrent indirmesi)
+# 1- Herşey hazır imaj dosyasını indirin (kolay kurulum)
 
 ### İmaj dosyasını indirin
 [Cpuhunter Os imaj dosyası](https://rebrand.ly/cpuhunter_os)nı indirin ve [Win32 Disk Imager](https://sourceforge.net/projects/win32diskimager/) programı ile usb'ye yazdırın. Daha sonrasında bilgisayarınızı hazırlamış olduğunuz usb'den boot edin. 
